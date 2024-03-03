@@ -1,0 +1,2 @@
+# Szachy
+Prosta gra szachowa
